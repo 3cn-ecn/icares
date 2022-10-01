@@ -63,8 +63,13 @@ const config = {
             label: 'Épreuves',
           },
           {
+            to: '/planning',
+            position: 'left',
+            label: 'Planning',
+          },
+          {
             to: '/blog',
-            label: 'Blog',
+            label: 'Actualités',
             position: 'left'
           },
           {
