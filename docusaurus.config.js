@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ICAres - 5e édition',
-  tagline: 'Les Inter-Centrales des Arts',
+  title: 'Les ICAres',
+  tagline: 'Compétition Inter-Centrale des Arts',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/icares/',
   onBrokenLinks: 'throw',
