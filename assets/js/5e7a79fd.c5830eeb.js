@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkicares=self.webpackChunkicares||[]).push([[423],{812:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/icares/blog/tags/facebook","allTagsPath":"/icares/blog/tags","count":1}')}}]);
