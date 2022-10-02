@@ -47,3 +47,8 @@
 .instagram::before {
   background-image: url("/img/instagram.png");
 }
+
+.hide-icons h2::first-letter {
+  color: transparent;
+  font-size: 0.001rem;
+}

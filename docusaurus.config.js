@@ -36,6 +36,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: '/',
+          path: 'epreuves',
+          showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
@@ -58,7 +61,7 @@ const config = {
         },
         items: [
           {
-            to: '/docs',
+            to: '/epreuves',
             position: 'left',
             label: 'Épreuves',
           },
@@ -67,11 +70,11 @@ const config = {
             position: 'left',
             label: 'Planning',
           },
-          {
-            to: '/blog',
-            label: 'Actualités',
-            position: 'left'
-          },
+          // {
+          //   to: '/blog',
+          //   label: 'Actualités',
+          //   position: 'left'
+          // },
           {
             href: 'https://www.instagram.com/icares.centrale/',
             position: 'right',
@@ -137,6 +140,9 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      colorMode: {
+        defaultMode: 'dark'
+      }
     }),
 };
 

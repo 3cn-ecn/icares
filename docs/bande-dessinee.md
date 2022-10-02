@@ -1,1 +1,0 @@
-# Bande Dessinée

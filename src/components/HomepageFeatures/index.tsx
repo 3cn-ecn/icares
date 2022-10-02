@@ -10,32 +10,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: '6 Écoles pour 1 Victoire',
+    Svg: require('@site/static/img/pentagramme.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Les ICAres regroupent les 6 écoles Centrale de Casablanca, Lille,
+        Lyon, Marseille, Nantes, et Paris.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: '1 thème : L\'ENFER',
+    Svg: require('@site/static/img/enfer.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Le thème de cette année est l'ENFER ! La plupart des épreuves ont
+        aussi leur propre sous-thème, lié au monde sous-terrain...
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: '19 Épreuves',
+    Svg: require('@site/static/img/pentagramme.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Les ICAres, c'est avant-tout une compétition artistique avec 19 épreuves :
+        chant, danse, musique, dessin... Il y en a pour tous les goûts !
       </>
     ),
   },

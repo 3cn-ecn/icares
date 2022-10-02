@@ -1,0 +1,5 @@
+---
+title: Cuisine
+---
+
+# Cuisine
