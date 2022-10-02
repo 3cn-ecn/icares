@@ -9,7 +9,7 @@ const config = {
   title: 'Les ICAres',
   tagline: 'Compétition Inter-Centrale des Arts',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/icares/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo-icares.png',
