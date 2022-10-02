@@ -37,8 +37,8 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          path: 'epreuves',
           showLastUpdateTime: true,
+          sidebarCollapsed: false,
         },
         blog: {
           showReadingTime: true,
@@ -69,6 +69,11 @@ const config = {
             to: '/planning',
             position: 'left',
             label: 'Planning',
+          },
+          {
+            to: '/infos-pratiques',
+            position: 'left',
+            label: 'Infos pratiques',
           },
           // {
           //   to: '/blog',
