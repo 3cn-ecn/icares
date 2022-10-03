@@ -1,7 +1,6 @@
 ---
-title: Ecriture d'une nouvelle
+title: ✒️ Ecriture d'une nouvelle
 description: Présentation et règlement de l'épreuve d'écriture
-draft: true
 ---
 
 # Ecriture d'une nouvelle
@@ -12,14 +11,15 @@ draft: true
 
 Cette épreuve fait appel à vos talents d'écrivains : sortez votre plume et transportez-nous, tout en respectant les règles énoncées ci-dessous.
 
-La limite est de 4 nouvelles par école. Il est autorisé d'écrire une nouvelle avec plusieurs auteurs.  
+La limite est de 4 nouvelles par école. Il est autorisé d'écrire une nouvelle à plusieurs auteurs.  
 
 La présence des candidats aux Icares n'est pas indispensable pour concourir. 
 
-## Les Modalités
-L'oeuvre finale de cette épreuve d'écriture devra suivre les caractéristiques d'une nouvelle. 
 
-Elle devra être envoyée avant le **16 novembre 2022** sur un WeTransfer vers l'adresse [icares.centrale@gmail.com](mailto:icares.centrale@gmail.com) en format mp4. 
+## Les Modalités
+L'oeuvre finale de cette épreuve d'écriture sera de longueur libre mais devra impérativement suivre les caractéristiques d'une nouvelle. Hors poésie, tous les styles d'écriture sont autorisés.
+
+Elle devra être envoyée avant le **16 novembre 2022** sur un à l'adresse [icares.centrale@gmail.com](mailto:icares.centrale@gmail.com) en format . 
 
 
 ## Thème
@@ -29,4 +29,11 @@ Chaque équipe peut prendre libre interprétation du thème (de façon humoristi
 
 
 ## Barème de NotAtion
-*En cours d'écriture ...* 
+
+Seront pris en compte dans la notation : 
+* Le scénario
+* Le style
+* La qualité de l'écriture
+* Le vocabulaire
+* Le respect du thème
+Chaque item sera évalué sur 4 points

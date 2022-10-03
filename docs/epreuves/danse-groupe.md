@@ -8,7 +8,7 @@ draft: true
 ## L'Épreuve
 
 Que vous soyez danseur.euse étoile ou star du hip-hop, cette épreuve ne vous demande pas plus que de danser ! 
-Sur scène, 2 à 12 danseurs.euses devront effectuer une chorégraphie préalablement préparée. 
+Sur scène, 2 à 15 danseurs.euses devront effectuer une chorégraphie préalablement préparée. 
 Chaque école ne peut être représentée que par une unique troupe de danseurs. 
 La chorégraphie doit respecter les règles énoncées ci-dessous.
 
@@ -24,8 +24,8 @@ Le choix de la musique est libre, d'une durée maximale de 7 minutes. La musique
 ## Thème
 ***« Le diable s'habille en Prada »***
 
-Il est nécessaire d'être en lien avec le thème pour concourir mais il est à noter que son poids dans le barème n'est pas important. 
+Il est nécessaire d'être en lien avec le thème pour concourir mais il est à noter que son poids dans le barème n'est pas conséquent. 
 
 
-## Barème de NotAtion
-*En cours d'écriture ...* 
+## Barème de NotatIon
+*La chorégraphie est en cours ...* 
