@@ -10,7 +10,9 @@ description: Présentation et règlement de l'épreuve de Court Métrage
 
 ## L'Épreuve
 Cette épreuve appelle à la réalisation d'un court-métrage, respectant les règles énoncées ci-dessous.
+
 La taille de l'équipe est libre. Chaque école peut réaliser un ou plusieurs court-métrages. 
+
 La présence des candidats aux Icares n'est pas indispensable pour concourir. 
 
 ## Les Modalités
