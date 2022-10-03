@@ -52,3 +52,9 @@
   color: transparent;
   font-size: 0.001rem;
 }
+.hide-icons article a p {
+  display: none;
+}
+.hide-icons article h2 {
+  margin-bottom: 0;
+}
