@@ -1,8 +1,11 @@
 ---
 title: 🎬 Court Métrage
+image: /img/epreuves/court-metrage.png
 ---
 
 # Court Métrage
+
+![Image Court Métrage](/img/epreuves/court-metrage.png)
 
 ## L'Épreuve
 Cette épreuve appelle à la réalisation d'un court-métrage, respectant les règles ci-dessous : 
