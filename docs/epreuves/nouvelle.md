@@ -19,13 +19,13 @@ La présence des candidats aux Icares n'est pas indispensable pour concourir.
 ## Les Modalités
 L'oeuvre finale de cette épreuve d'écriture sera de longueur libre mais devra impérativement suivre les caractéristiques d'une nouvelle. Hors poésie, tous les styles d'écriture sont autorisés.
 
-Elle devra être envoyée avant le **16 novembre 2022** sur un à l'adresse [icares.centrale@gmail.com](mailto:icares.centrale@gmail.com) en format . 
+Elle devra être envoyée avant le **16 novembre 2022** à l'adresse [icares.centrale@gmail.com](mailto:icares.centrale@gmail.com) en format pdf. 
 
 
 ## Thème
 ***« L'enfer c'est les autres »***
 
-Chaque équipe peut prendre libre interprétation du thème (de façon humoristique, dramatique, ...).
+Chaque équipe peut prendre libre interprétation du thème et de son univers lors de l'écriture.
 
 
 ## Barème de NotAtion
@@ -36,4 +36,5 @@ Seront pris en compte dans la notation :
 * La qualité de l'écriture
 * Le vocabulaire
 * Le respect du thème
+
 Chaque item sera évalué sur 4 points
