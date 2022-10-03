@@ -7,7 +7,8 @@ pagination_prev: null
 
 # Épreuves
 
-Découvrez toutes les épreuves des ICAres !
+Découvrez ici toutes les épreuves des ICAres ! Certaines épreuves sont encore
+manquantes, merci de patienter...
 
 import DocCardList from '@theme/DocCardList';
 
