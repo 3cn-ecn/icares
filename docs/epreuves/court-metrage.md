@@ -1,6 +1,7 @@
 ---
 title: 🎬 Court Métrage
 image: /img/epreuves/court-metrage.png
+description: Présentation et règlement de l'épreuve de Court Métrage
 ---
 
 # Court Métrage
