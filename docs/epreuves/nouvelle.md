@@ -1,11 +1,12 @@
 ---
-title: ✒️ Ecriture d'une nouvelle
-description: Présentation et règlement de l'épreuve d'écriture
+title: ✒️ Nouvelle
+description: Présentation et règlement de l'épreuve d'écriture de Nouvelle
+image: /img/epreuves/nouvelle.png
 ---
 
-# Ecriture d'une nouvelle
+# Nouvelle
 
-
+![Image Nouvelle](/img/epreuves/nouvelle.png)
 
 ## L'Épreuve
 
