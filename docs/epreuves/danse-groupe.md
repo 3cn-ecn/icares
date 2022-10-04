@@ -1,10 +1,12 @@
 ---
 title: 🩰 Danse de groupe
 description: Présentation et règlement de danse de groupe
-draft: true
+image: /img/epreuves/danse-groupe.png
 ---
 
 # Danse de groupe
+
+![](/img/epreuves/danse-groupe.png)
 
 ## L'Épreuve
 
