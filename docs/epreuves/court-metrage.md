@@ -25,7 +25,8 @@ Sont considérés comme critère la qualité de l'image et du son mais aussi les
 Le film doit être diffusable dans tout cadre : la violence, la nudité, les images à contenu pornographique et le non-respect des droits d'auteurs sont formellement interdits sous peine d'être disqualifiés de l'épreuve. 
 
 ## Thème
-***« Que le diable m'emporte »***
+
+> ### ***« Que le diable m'emporte »***
 
 Chaque équipe peut prendre libre interprétation du thème (de façon humoristique, dramatique, ...).
 

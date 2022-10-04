@@ -23,7 +23,8 @@ Le choix de la musique est libre, d'une durée maximale de 7 minutes. La musique
 
 
 ## Thème
-***« Le diable s'habille en Prada »***
+
+> ### ***« Le diable s'habille en Prada »***
 
 Il est nécessaire d'être en lien avec le thème pour concourir mais il est à noter que son poids dans le barème n'est pas conséquent. 
 

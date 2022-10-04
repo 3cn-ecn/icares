@@ -24,7 +24,8 @@ Elle devra être envoyée avant le **16 novembre 2022** à l'adresse [icares.cen
 
 
 ## Thème
-***« L'enfer c'est les autres »***
+
+> ### ***« L'enfer c'est les autres »***
 
 Chaque équipe peut prendre libre interprétation du thème et de son univers lors de l'écriture.
 
