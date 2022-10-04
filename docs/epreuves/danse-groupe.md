@@ -1,5 +1,6 @@
 ---
 title: 🩰 Danse de groupe
+description: Présentation et règlement de danse de groupe
 draft: true
 ---
 
@@ -10,7 +11,7 @@ draft: true
 Que vous soyez danseur.euse étoile ou star du hip-hop, cette épreuve ne vous demande pas plus que de danser ! 
 Sur scène, 2 à 15 danseurs.euses devront effectuer une chorégraphie préalablement préparée. 
 Chaque école ne peut être représentée que par une unique troupe de danseurs. 
-La chorégraphie doit respecter les règles énoncées ci-dessous.
+La représentation devra respecter les règles énoncées ci-dessous.
 
 
 ## Les Modalités
@@ -18,7 +19,7 @@ La chorégraphie doit respecter les règles énoncées ci-dessous.
 La chorégraphie devra durer 7 minutes. 
 Tout type de danse est autorisé, à l'exception des danses de couple.
 L'ordre de passage sera tiré au sort le jour de l'épreuve. 
-Le choix de la musique est libre, d'une durée maximale de 7 minutes. La musique devra être envoyée en format mp3 avant le 16 novembre à l'adresse mail suivante : icares.centrale@gmail.com avec l'objet [Musique danse de groupe].
+Le choix de la musique est libre, d'une durée maximale de 7 minutes. La musique devra être envoyée en format mp3 avant le 16 novembre à l'adresse mail suivante : icares.centrale@gmail.com avec l'objet [Musique - Danse de groupe].
 
 
 ## Thème

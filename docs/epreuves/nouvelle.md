@@ -1,10 +1,10 @@
 ---
-title: ✒️ Nouvelle
+title: ✒️ Écriture d'une nouvelle
 description: Présentation et règlement de l'épreuve d'écriture de Nouvelle
 image: /img/epreuves/nouvelle.png
 ---
 
-# Nouvelle
+# Écriture d'une nouvelle
 
 ![Image Nouvelle](/img/epreuves/nouvelle.png)
 
