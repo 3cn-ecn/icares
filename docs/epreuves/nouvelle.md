@@ -39,4 +39,3 @@ Seront pris en compte dans la notation :
 * Le vocabulaire
 * Le respect du thème
 
-Chaque item sera évalué sur 4 points
