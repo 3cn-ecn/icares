@@ -1,5 +1,5 @@
 ---
-title: Chant Solo
+title: 🎤 Chant Solo
 description: Présentation et règlement de l'épreuve de chant solo
 draft: true
 ---
