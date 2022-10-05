@@ -48,9 +48,9 @@ description: Présentation et règlement de l'épreuve d'écriture d'une poésie
 
 > ### ***« Chant d'Asphodèle »***
 
-Du thème, vous pourrez choisir l'interprétation qui appelle,
+*Du thème, vous pourrez choisir l'interprétation qui appelle,*
 
-A écrire un poème d'une qualité intemporelle, exceptionnelle et éternelle.
+*A écrire un poème d'une qualité intemporelle, exceptionnelle et éternelle.*
 
 
 ## Barème de NotatIon
