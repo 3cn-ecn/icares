@@ -16,7 +16,7 @@ description: Présentation et règlement de l'épreuve d'écriture d'une poésie
 
 *Nous attendons dès maintenant votre composition. *
 
-     
+**     
 
 *A une limite de 4 poèmes, chaque école sera attentive.*
 
