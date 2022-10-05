@@ -1,10 +1,12 @@
 ---
 title: 🪶 Poésie
 description: Présentation et règlement de l'épreuve d'écriture d'une poésie
+image: /img/epreuves/poesie.png
 ---
 
 # Poésie
 
+![](/img/epreuves/poesie.png)
 
 ## L'Épreuve
 
