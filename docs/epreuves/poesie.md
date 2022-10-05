@@ -37,7 +37,7 @@ description: Présentation et règlement de l'épreuve d'écriture d'une poésie
 
 *En format pdf à l'adresse [icares.centrale@gmail.com](mailto:icares.centrale@gmail.com).*
 
-     
+**    
 
 *Avant délibération, une lecture publique aura lieu,*
 
