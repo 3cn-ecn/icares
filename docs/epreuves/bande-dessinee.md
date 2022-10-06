@@ -1,11 +1,12 @@
 ---
 title: 💭 Bande dessinée
-draft: true
 description: Présentation et règlement de l'épreuve d'écriture de nouvelle
+image : /img/epreuves/bd.png
 ---
 
 # Bande dessinée
 
+![](/img/epreuves/bd.png)
 
 ## L'Épreuve
 
