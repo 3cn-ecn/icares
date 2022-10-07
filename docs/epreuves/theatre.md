@@ -1,7 +1,6 @@
 ---
 title: 🎭 Théâtre
 description: Présentation et règlement de l'épreuve de théâtre
-draft: true
 ---
 
 # Théâtre
