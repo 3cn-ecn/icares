@@ -1,7 +1,6 @@
 ---
 title: 🎤 Chant Solo
 description: Présentation et règlement de l'épreuve de chant solo
-
 ---
 
 # Chant Solo
@@ -14,7 +13,7 @@ Quel talent sera sélectionné par les jurys ? Il nous tarde de le découvrir !
 
 **
 
-Comme vous vous doutez, dans cette épreuve le.a chanteur.euse devra effectuer une prestation de chant en solo. 
+Comme vous vous doutez, dans cette épreuve le.a chanteur.euse devra effectuer une prestation de chant en solo, en respectant les règles ci-dessous. 
 
 Chaque école pourra proposer que 2 candidats pour cette épreuve.
 
