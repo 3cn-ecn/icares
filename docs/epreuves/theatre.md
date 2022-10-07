@@ -38,9 +38,13 @@ Toutefois, le barème prévoit des points bonus pour les pièces jouées respect
 ACTE 4
 
 Seront pris en compte dans la notation :
--Jeu des comédiens (10 points)
--Mise en scène (10 points)
--Originalité (5 points)
--Respect du thème (5 points)
+
+*Jeu des comédiens (10 points)
+
+*Mise en scène (10 points)
+
+*Originalité (5 points)
+
+*Respect du thème (5 points)
 
 *Fermeture de rideau*
