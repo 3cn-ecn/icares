@@ -31,7 +31,7 @@ Une feuille ou un téléphone pourra être utilisé comme aide.
 
 L'ordre de passage sera tiré au sort par les jurys au début de l'épreuve.
 
-Les noms des morceaux et l’enregistrement sont à envoyer le plus tôt possible à l’adresse [icares.centrale@gmail.com](mailto:icares.centrale@gmail.com) en précisant [Chant Solo] dans l’objet du mail.
+Les noms des morceaux et l’enregistrement sont à envoyer le plus tôt possible à l’adresse [icares.centrale@gmail.com](mailto:icares.centrale@gmail.com), en précisant [Chant Solo] dans l’objet du mail.
 
 
 ## Thème
