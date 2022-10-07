@@ -9,7 +9,7 @@ description: Présentation et règlement de l'épreuve de théâtre
 
 *Ouverture de rideau*
 
-ACTE 1
+### ACTE 1
 
 Chaque école ne peut être représentée que par une unique troupe, de 10 comédiens maximum. 
 
@@ -17,7 +17,7 @@ La représentation devra respecter les règles énoncées ci-dessous.
 
 ...
 
-ACTE 2
+### ACTE 2
 
 La représentation ne devra pas dépasser 20min. 
 
@@ -27,7 +27,7 @@ L'ordre de passage des différentes troupes sera défini par les jurys par tirag
 
 ...
 
-ACTE 3
+### ACTE 3
 
 Il n'y a pas de thème imposé pour cet épreuve. 
 
@@ -35,16 +35,12 @@ Toutefois, le barème prévoit des points bonus pour les pièces jouées respect
 
 ...
 
-ACTE 4
+### ACTE 4
 
 Seront pris en compte dans la notation :
-
 *Jeu des comédiens (10 points)
-
 *Mise en scène (10 points)
-
 *Originalité (5 points)
-
 *Respect du thème (5 points)
 
 *Fermeture de rideau*
