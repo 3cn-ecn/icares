@@ -1,10 +1,10 @@
 ---
-title: 💭 Bande dessinée
+title: 💭 Bande Dessinée
 description: Présentation et règlement de l'épreuve d'écriture de nouvelle
 image : /img/epreuves/bd.png
 ---
 
-# Bande dessinée
+# Bande Dessinée
 
 ![](/img/epreuves/bd.png)
 

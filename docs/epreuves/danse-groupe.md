@@ -1,6 +1,6 @@
 ---
 title: 🩰 Danse de groupe
-description: Présentation et règlement de danse de groupe
+description: Présentation et règlement de l'épreuve de danse de groupe
 image: /img/epreuves/danse-groupe.png
 ---
 
