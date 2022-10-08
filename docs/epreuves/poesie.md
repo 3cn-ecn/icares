@@ -12,13 +12,13 @@ image: /img/epreuves/poesie.png
 
 *On dit de vous que vous avez l'âme d'un poète,*
 
-*Ou que vous maniez les mots à la perfection ? *
+*Ou que vous maniez les mots à la perfection ?*
 
 *Concentrez votre talent, votre plume est prête*
 
-*Nous attendons dès maintenant votre composition. *
+*Nous attendons dès maintenant votre composition.*
 
-**     
+<br>  
 
 *A une limite de 4 poèmes, chaque école sera attentive.*
 
@@ -39,7 +39,7 @@ image: /img/epreuves/poesie.png
 
 *En format pdf à l'adresse [icares.centrale@gmail.com](mailto:icares.centrale@gmail.com).*
 
-**    
+<br>
 
 *Avant délibération, une lecture publique aura lieu,*
 
@@ -57,6 +57,6 @@ image: /img/epreuves/poesie.png
 
 ## Barème de NotatIon
 
-*Actuellement à cours de rime*
+*Actuellement à court de rimes*
 
 *Nous reviendrons pour le paragraphe ultime*

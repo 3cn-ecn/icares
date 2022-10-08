@@ -10,7 +10,7 @@ image: /img/epreuves/nouvelle.png
 
 ## L'Épreuve
 
-Cette épreuve fait appel à vos talents d'écrivains : sortez votre plume et transportez-nous, tout en respectant les règles énoncées ci-dessous.
+Cette épreuve fait appel à vos talents d'écrivains : sortez votre plume et transportez-nous, tout en respectant les règles énoncées ci-dessous.
 
 La limite est de 4 nouvelles par école. Il est autorisé d'écrire une nouvelle à plusieurs auteurs.  
 

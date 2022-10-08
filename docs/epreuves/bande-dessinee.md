@@ -41,7 +41,3 @@ Seront pris en compte dans la notation :
 * L'orginalité du scénario (7 points)
 * La qualité du dessin (7 points)
 * Le respect du thème (6 points)
-
-
----
-

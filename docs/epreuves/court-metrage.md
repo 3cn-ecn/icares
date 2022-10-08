@@ -20,9 +20,9 @@ La vidéo devra durer entre 5 min et 10 min, intro et générique compris.
 
 Elle devra être envoyée avant le **16 novembre 2022** sur un WeTransfer vers l'adresse [icares.centrale@gmail.com](mailto:icares.centrale@gmail.com) en format mp4. 
 
-Sont considérés comme critère la qualité de l'image et du son mais aussi les qualités de montage, de réalisation, de scénario, de composition des scènes, donc il est possible de concourir avec un court métrage fait avec un smartphone avec Movie Maker par exemple.
+Sont considérés comme critères la qualité de l'image et du son mais aussi les qualités de montage, de réalisation, de scénario, de composition des scènes. Il est donc possible de concourir avec un court métrage fait avec un smartphone et Movie Maker par exemple.
 
-Le film doit être diffusable dans tout cadre : la violence, la nudité, les images à contenu pornographique et le non-respect des droits d'auteurs sont formellement interdits sous peine d'être disqualifiés de l'épreuve. 
+Le film doit être diffusable dans tout cadre : la violence, la nudité, les images à contenu pornographique et le non-respect des droits d'auteurs sont formellement interdits sous peine d'être disqualifié de l'épreuve. 
 
 ## Thème
 

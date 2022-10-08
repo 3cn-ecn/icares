@@ -19,9 +19,9 @@ La représentation devra respecter les règles énoncées ci-dessous.
 
 ### ACTE 2
 
-La représentation ne devra pas dépasser 20min. 
+La représentation ne devra pas dépasser 20 min. 
 
-Le choix de la mise en scène, de la pièce ou de la scénette est libre. Toutes formes théatrales (sauf improvisation) sont autorisées.
+Le choix de la mise en scène, de la pièce ou de la scénette est libre. Toutes formes théâtrales (sauf improvisation) sont autorisées.
 
 L'ordre de passage des différentes troupes sera défini par les jurys par tirage au sort au début de l'épreuve.
 
