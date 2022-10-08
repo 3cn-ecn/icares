@@ -18,7 +18,7 @@ image: /img/epreuves/poesie.png
 
 *Nous attendons dès maintenant votre composition.*
 
-<br>  
+<br/>  
 
 *A une limite de 4 poèmes, chaque école sera attentive.*
 
@@ -39,7 +39,7 @@ image: /img/epreuves/poesie.png
 
 *En format pdf à l'adresse [icares.centrale@gmail.com](mailto:icares.centrale@gmail.com).*
 
-<br>
+<br/>
 
 *Avant délibération, une lecture publique aura lieu,*
 
