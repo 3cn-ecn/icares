@@ -2,6 +2,7 @@
 title: 💭 Bande Dessinée
 description: Présentation et règlement de l'épreuve d'écriture de nouvelle
 image : /img/epreuves/bd.png
+pagination_prev: null
 ---
 
 # Bande Dessinée
