@@ -36,7 +36,6 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title="Les ICAres - Inter-Centrale des Arts"
-      image="/img/banner.png"
       description="Les ICAres est une compétition artistique faisant concourir toutes les Écoles Centrale.">
       <HomepageHeader />
       <main>
