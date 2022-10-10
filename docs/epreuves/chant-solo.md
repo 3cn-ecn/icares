@@ -1,5 +1,5 @@
 ---
-title: 🎤 Chant Solo
+title: 🎤 Chant solo
 description: Présentation et règlement de l'épreuve de chant solo
 image: /img/epreuves/chant-solo.png
 ---
