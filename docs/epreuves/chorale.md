@@ -1,9 +1,12 @@
 ---
 title: 👄 Chorale
 description: Présentation et règlement de l'épreuve de chant en coeur
+image: /img/epreuves/chorale.png
 ---
 
 # Chorale
+
+![](/img/epreuves/chorale.png)
 
 ## L'Épreuve
 
