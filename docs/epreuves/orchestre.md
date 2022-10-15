@@ -9,7 +9,7 @@ last_update:
 
 ## L'Épreuve
 
-...
+Que vous soyez de bons musiciens ou que vous écouter soit un enfer, venez nous montrer votre talent !
 
 Deux orchestres composés de 2 à 10 musiciens pourront représenter chaque école.
 
