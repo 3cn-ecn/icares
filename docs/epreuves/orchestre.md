@@ -1,5 +1,5 @@
 ---
-title: Orchestre
+title: 🎻 Orchestre
 description: Présentation et règlement de l'épreuve d'Orchestre
 
 ---
@@ -8,9 +8,12 @@ description: Présentation et règlement de l'épreuve d'Orchestre
 
 ## L'Épreuve
 
-
+...
 
 Deux orchestres composés de 2 à 10 musiciens pourront représenter chaque école.
+
+Les orchestres devront respecter les règles énoucées ci-dessous.
+
 
 ## Les Modalités
 
