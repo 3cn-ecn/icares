@@ -20,11 +20,11 @@ Prenez vos ustensiles et créez votre plus belle oeuvre culinaire, en respectant
 
 L'épreuve durera 2 heures. 
 
-Aucun téléphone ou livre de recette ne sera autorisé pendant l'épreuve. La préparation est donc largement conseillée.
+Aucun téléphone ou livre de recette ne sera autorisé pendant l'épreuve. La préparation à l'épreuve est donc largement conseillée.
 
 Le type de plat est libre, sucré ou salé mais unique à l'exception d'un format café gourmand autorisé.
 
-La liste des ustensiles et ingrédients sera publiée le ***1er novembre***. Il vous sera interdit d'apporter tout ustensile ou ingrédient supplémentaires. 
+La liste des ustensiles et ingrédients sera publiée le ***1er novembre***. Il vous sera interdit d'apporter tout ustensile ou ingrédient supplémentaire. 
 
 
 ## Thème
