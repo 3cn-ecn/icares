@@ -6,4 +6,5 @@ pagination_prev: null
 
 # Planning
 
-Bientôt disponible !
+
+![Planning des épreuves](/img/planning_opt.svg)

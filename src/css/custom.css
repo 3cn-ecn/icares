@@ -34,25 +34,6 @@
   --ifm-blockquote-color: var(--ifm-color-primary-lightest);
 }
 
-.header-logo-link::before {
-  background-repeat: no-repeat;
-  background-size: contain;
-  content: "";
-  display: inline-flex;
-  height: 24px;
-  width: 24px;
-  margin-right: 0.2em;
-}
-.header-logo-link:hover {
-  opacity: 0.6;
-}
-.facebook::before {
-  background-image: url("/img/facebook.png");
-}
-.instagram::before {
-  background-image: url("/img/instagram.png");
-}
-
 .hide-icons h2::first-letter {
   color: transparent;
   font-size: 0.001rem;
