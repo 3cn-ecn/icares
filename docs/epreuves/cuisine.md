@@ -1,10 +1,12 @@
 ---
 title: 🌶️ Cuisine
 description: Présentation et règlement de l'épreuve de Cuisine
-draft : true
+image: /img/epreuves/cuisine.png
 ---
 
 # Cauchemar en cuisine
+
+![](/img/epreuves/cuisine.png)
 
 ## L'Épreuve
 
