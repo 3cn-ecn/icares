@@ -7,12 +7,20 @@ pagination_prev: null
 
 # Épreuves
 
-Découvrez ici toutes les épreuves des ICAres ! Certaines épreuves sont encore
-manquantes, merci de patienter...
+Découvrez ici toutes les épreuves des ICAres !
 
 import DocCardList from '@theme/DocCardList';
 
 <DocCardList className='hide-icons' />
+
+Mais aussi (règlements bientôt disponibles !) :
+* Battle de danse
+* Cheerleading
+* Dessin
+* Peinture
+* Photographie
+* Rap
+* Théâtre d'impro
 
 <iframe
     src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FInterCentralesdesArts%2Fvideos%2F1442171996280158%2F&show_text=false&width=560&t=0"
