@@ -2,6 +2,8 @@
 title: 🪶 Poésie
 description: Présentation et règlement de l'épreuve d'écriture d'une poésie
 image: /img/epreuves/poesie.png
+last_update:
+  date: 8/10/2022
 ---
 
 # Poésie

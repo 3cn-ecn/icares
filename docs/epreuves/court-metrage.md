@@ -2,6 +2,8 @@
 title: 🎬 Court Métrage
 image: /img/epreuves/court-metrage.png
 description: Présentation et règlement de l'épreuve de Court Métrage
+last_update:
+  date: 8/10/2022
 ---
 
 # Court Métrage

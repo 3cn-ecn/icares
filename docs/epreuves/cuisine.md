@@ -2,6 +2,8 @@
 title: 🌶️ Cuisine
 description: Présentation et règlement de l'épreuve de Cuisine
 image: /img/epreuves/cuisine.png
+last_update:
+  date: 15/10/2022
 ---
 
 # Cauchemar en cuisine

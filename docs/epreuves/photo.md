@@ -1,7 +1,8 @@
 ---
 title: 📸 Photo
 description: Présentation et règlement de l'épreuve de photo
-
+last_update:
+  date: 15/10/2022
 ---
 
 # Photo

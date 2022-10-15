@@ -2,6 +2,8 @@
 title: 🎤 Chant solo
 description: Présentation et règlement de l'épreuve de chant solo
 image: /img/epreuves/chant-solo.png
+last_update:
+  date: 10/10/2022
 ---
 
 # Chant Solo

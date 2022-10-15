@@ -1,7 +1,8 @@
 ---
 title: 🎸 Musique de Groupe
 description: Présentation et règlement de l'épreuve de musique de Groupe
-
+last_update:
+  date: 15/10/2022
 ---
 
 # Musique de groupe

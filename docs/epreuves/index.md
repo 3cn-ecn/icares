@@ -4,7 +4,6 @@ pagination_next: null
 pagination_prev: null
 ---
 
-
 # Épreuves
 
 Découvrez ici toutes les épreuves des ICAres !
@@ -18,7 +17,6 @@ Mais aussi (règlements bientôt disponibles !) :
 * Cheerleading
 * Dessin
 * Peinture
-* Photographie
 * Rap
 * Théâtre d'impro
 
