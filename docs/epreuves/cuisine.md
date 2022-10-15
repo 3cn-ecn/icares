@@ -1,10 +1,10 @@
 ---
-title: 🌶️ Cauchemar en cuisine
+title: 🌶️ Cuisine
 description: Présentation et règlement de l'épreuve de Cuisine
 draft : true
 ---
 
-# Cuisine
+# Cauchemar en cuisine
 
 ## L'Épreuve
 
