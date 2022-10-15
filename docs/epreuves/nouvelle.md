@@ -3,7 +3,7 @@ title: ✒️ Nouvelle
 description: Présentation et règlement de l'épreuve d'écriture de nouvelle
 image: /img/epreuves/nouvelle.png
 last_update:
-  date: 8/10/2022
+  date: 2022-10-8
 ---
 
 # Nouvelle

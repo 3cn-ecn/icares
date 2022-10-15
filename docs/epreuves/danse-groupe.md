@@ -3,7 +3,7 @@ title: 🩰 Danse de groupe
 description: Présentation et règlement de l'épreuve de danse de groupe
 image: /img/epreuves/danse-groupe.png
 last_update:
-  date: 10/10/2022
+  date: 2022-10-10
 ---
 
 # Danse de groupe

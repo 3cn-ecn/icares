@@ -2,7 +2,7 @@
 title: 🎻 Orchestre
 description: Présentation et règlement de l'épreuve d'Orchestre
 last_update:
-  date: 15/10/2022
+  date: 2022-10-15
 ---
 
 # Orchestre

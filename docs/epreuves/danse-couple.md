@@ -3,7 +3,7 @@ title: 💃🕺 Danse de couple
 description: Présentation et règlement de l'épreuve de danse de couple
 image: /img/epreuves/danse-couple.png
 last_update:
-  date: 11/10/2022
+  date: 2022-10-11
 ---
 
 # Danse de couple

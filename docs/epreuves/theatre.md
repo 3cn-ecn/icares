@@ -4,7 +4,7 @@ description: Présentation et règlement de l'épreuve de théâtre
 pagination_next: null
 image: /img/epreuves/theatre.png
 last_update:
-  date: 10/10/2022
+  date: 2022-10-10
 ---
 
 # Théâtre

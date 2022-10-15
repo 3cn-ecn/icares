@@ -3,7 +3,7 @@ title: 👄 Chorale
 description: Présentation et règlement de l'épreuve de chant en coeur
 image: /img/epreuves/chorale.png
 last_update:
-  date: 11/10/2022
+  date: 2022-10-11
 ---
 
 # Chorale
