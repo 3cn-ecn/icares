@@ -1,11 +1,14 @@
 ---
 title: 🎷 Fanfare
 description: Présentation et règlement de l'épreuve de Fanfare
+image: /img/epreuves/fanfare.png
 last_update:
   date: 2022-10-15
 ---
 
 # Fanfare
+
+![](/img/epreuves/fanfare.png)
 
 ## L'Épreuve
 
