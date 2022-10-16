@@ -1,11 +1,14 @@
 ---
 title: 📸 Photo
 description: Présentation et règlement de l'épreuve de photo
+image: /img/epreuves/photo.png
 last_update:
   date: 2022-10-15
 ---
 
 # Photo
+
+![](/img/epreuves/photo.png)
 
 ## L'Épreuve
 
