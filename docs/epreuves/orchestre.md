@@ -1,11 +1,14 @@
 ---
 title: 🎻 Orchestre
 description: Présentation et règlement de l'épreuve d'Orchestre
+image: /img/epreuves/orchestre.png
 last_update:
   date: 2022-10-15
 ---
 
 # Orchestre
+
+![](/img/epreuves/orchestre.png)
 
 ## L'Épreuve
 
