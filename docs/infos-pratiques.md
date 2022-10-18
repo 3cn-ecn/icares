@@ -15,7 +15,7 @@ last_update:
 
 ## Billetterie
 
-Ouverture de la billetterie le 17 octobre.
+Ouverture de la billetterie le 19 octobre.
 
 ## Logement et nourriture
 
