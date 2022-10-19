@@ -14,8 +14,6 @@ last_update:
 
 Deuxième épreuve de la soirée, votre fanfare devra emporter le public ! 
 
-Chaque école peut envoyer une fanfare de 15 personnes. 
-Le jour de l'épreuve, plus de participants pourront participer à la performance, s'ils participent à une autre épreuve ou sont venus en temps que visiteurs.
 
 ## Les Modalités
 
