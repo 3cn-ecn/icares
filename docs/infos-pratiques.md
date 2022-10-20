@@ -10,6 +10,8 @@ last_update:
 
 ## Inscription et Billetterie
 
+*Comment participer aux ICAres ? On vous explique tout !*
+
 1. Organisez-vous au sein de votre école pour savoir qui représentera l'école pour
   chaque épreuve. Attention, le nombre de places est limité donc organisez-vous bien
   avant !
@@ -19,7 +21,7 @@ last_update:
 3. Payez la formule choisie dans le formulaire sur la
   [**Billetterie en Ligne**](https://www.helloasso.com/associations/association-culturelle-de-l-ecole-centrale-de-nantes/evenements/icares-5eme-edition-nantes-participation-et-logement).
 
-:::success Tarifs
+:::success Tarifs 🤑
 **Tarif normal** (repas et soirée inclus) : 23 €<br/>
 **Tarif normal + logement**: 28 €<br/>
 **Participation aux épreuves sans venue à Nantes** : 5 €<br/>

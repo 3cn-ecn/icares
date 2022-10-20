@@ -10,11 +10,24 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header style={{backgroundColor: '#461f52'}}>
-      <div className="container">
-        <img src='img/banner.png' alt='Les ICAres'></img>
+    <>
+      <header style={{backgroundColor: '#461f52'}}>
+        <div className="container">
+          <img src='img/banner.png' alt='Les ICAres'></img>
         </div>
-    </header>
+      </header>
+      <div className={clsx('container', styles.heroBanner)}>
+        <h1 className="hero__title">Les inscriptions sont ouvertes !</h1>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/infos-pratiques">
+            Je veux m'inscrire 🤩
+          </Link>
+        </div>
+        <hr style={{marginTop: '3em'}}/>
+      </div>
+    </>
     // <header className={clsx('hero hero--primary', styles.heroBanner)}>
     //   <div className="container">
     //     <h1 className="hero__title">{siteConfig.title}</h1>
