@@ -10,7 +10,7 @@ last_update:
 
 ## Dates et lieu
 
-* Dates : du 18 au 20 novembre 2022. Arrivée attendue le vendredi vers 19h, et fin des épreuves le dimanche vers 14h.
+* Dates : du 18 au 20 novembre 2022. Arrivée attendue le vendredi à partir de 19h, et fin des épreuves le dimanche vers 14h.
 * Lieu : [École Centrale de Nantes, 1 rue de la Noë 44321 Nantes](https://goo.gl/maps/g6VtFMzKGTmGTCto9)
 
 ## Billetterie
@@ -24,6 +24,10 @@ Il sera possible de demander à être logé sur place chez les étudiants de Cen
 Pensez aussi à apporter :
 * Duvet et matelas/tapis de sol si vous êtes logés
 * Éco-cup, couverts et assiette pour les repas
+
+:::danger Attention
+Aucun repas ne sera servi le vendredi soir. Pensez à apporter votre pique-nique !
+:::
 
 ## Transports sur Nantes
 
