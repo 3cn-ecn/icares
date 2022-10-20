@@ -2,7 +2,7 @@
 title: 🤸‍♀️ Battle de Danse
 description: Présentation et règlement de l'épreuve de battle de danse
 last_update:
-  date: 2022-17-10
+  date: 2022-10-17
 ---
 
 # Battle de danse

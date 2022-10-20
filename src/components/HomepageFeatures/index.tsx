@@ -13,11 +13,11 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: '19 Épreuves',
+    title: '20 Épreuves',
     Svg: require('@site/static/img/pentagramme.svg').default,
     description: (
       <>
-        Les ICAres, c'est avant-tout une compétition artistique avec 19 épreuves :
+        Les ICAres, c'est avant-tout une compétition artistique avec 20 épreuves :
         chant, danse, musique, dessin... Il y en a pour tous les goûts !
       </>
     ),
