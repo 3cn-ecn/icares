@@ -1,12 +1,14 @@
 ---
 title: 🎨 Peinture
 description: Présentation et règlement de l'épreuve de peinture
+image: /img/epreuves/peinture.png
 last_update:
   date: 2022-10-17
 ---
 
 # Peinture
 
+![](/img/epreuves/peinture.png)
 
 ## L'Épreuve
 
