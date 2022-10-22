@@ -29,7 +29,7 @@ import TabItem from '@theme/TabItem';
   
 </TabItem>
 
-<TabItem value="nantes" label="Centrale Nantes">
+<TabItem value="nantes" label="Centrale Nantes" id="nantes">
   
 
 1. Pour chaque épreuve à laquelle vous souhaitez participer, contactez le respo
@@ -72,7 +72,7 @@ import TabItem from '@theme/TabItem';
   
 </TabItem>
 
-<TabItem value="lille" label="Centrale Lille">
+<TabItem value="lille" label="Centrale Lille" id="lille">
 
 1. Organisez-vous avec le BDA pour savoir qui représentera l'école pour
   chaque épreuve. Attention, le nombre de places est limité donc organisez-vous bien
