@@ -15,8 +15,8 @@ import TabItem from '@theme/TabItem';
 
 *Comment participer aux ICAres ? On vous explique tout !*
 
-<Tabs>
-<TabItem value="tous" label="Pour tous" default>
+<Tabs defaultValue={window.location.hash}>
+<TabItem value="" label="Pour tous" default>
 
 1. Organisez-vous au sein de votre école pour savoir qui représentera l'école pour
   chaque épreuve. Attention, le nombre de places est limité donc organisez-vous bien
@@ -29,7 +29,7 @@ import TabItem from '@theme/TabItem';
   
 </TabItem>
 
-<TabItem value="nantes" label="Centrale Nantes" attributes={{id: "nantes", className: "inscription"}}>
+<TabItem value="#nantes" label="Centrale Nantes">
   
 
 1. Pour chaque épreuve à laquelle vous souhaitez participer, contactez le respo
@@ -72,7 +72,7 @@ import TabItem from '@theme/TabItem';
   
 </TabItem>
 
-<TabItem value="lille" label="Centrale Lille" attributes={{id: "lille", className: "inscription"}}>
+<TabItem value="#lille" label="Centrale Lille">
 
 1. Organisez-vous avec le BDA pour savoir qui représentera l'école pour
   chaque épreuve. Attention, le nombre de places est limité donc organisez-vous bien
