@@ -17,7 +17,12 @@ import TabItem from '@theme/TabItem';
 *Comment participer aux ICAres ? On vous explique tout !*
 
 <BrowserOnly>
-<Tabs defaultValue={useIsBrowser() ? (new URL(document.location)).searchParams.get('centrale') ?? 'tous' : 'tous'}>
+<Tabs 
+  groupId="ecoles"
+  defaultValue={useIsBrowser()
+    ? (new URL(document.location)).searchParams.get('centrale') ?? 'tous'
+    : 'tous'}
+>
 <TabItem value="tous" label="Pour tous" default>
 
 1. Organisez-vous au sein de votre école pour savoir qui représentera l'école pour

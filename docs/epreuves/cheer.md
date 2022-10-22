@@ -1,11 +1,14 @@
 ---
 title: 🧶 Cheer
 description: Présentation et règlement de l'épreuve de cheer
+image: /img/epreuves/cheer.png
 last_update:
   date: 2022-10-17
 ---
 
 # Cheer
+
+![](/img/epreuves/cheer.png)
 
 ## L'Épreuve
 
