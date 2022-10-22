@@ -19,7 +19,8 @@ last_update:
   pour enregistrer votre participation. Vous pourrez modifier plus tard les
   épreuves choisies, mais pas la formule de prix !
 3. Payez la formule choisie dans le formulaire sur la
-  [**Billetterie en Ligne**](https://www.helloasso.com/associations/association-culturelle-de-l-ecole-centrale-de-nantes/evenements/icares-5eme-edition-nantes-participation-et-logement).
+  [**Billetterie en Ligne**](https://www.helloasso.com/associations/association-culturelle-de-l-ecole-centrale-de-nantes/evenements/icares-5eme-edition-nantes-participation-et-logement)
+  (sauf pour les Lillois, la billetterie sera gérée directement par votre BDA).
 
 :::success Tarifs 🤑
 **Tarif normal** (repas et soirée inclus) : 23 €<br/>
