@@ -6,7 +6,7 @@ pagination_prev: null
 
 # Épreuves
 
-Découvrez ici toutes les épreuves des ICAres !
+Découvrez ici toutes les épreuves des ICAres ! Pour savoir comment vous inscrire, rendez-vous dans l'onglet *Infos Pratiques*. 
 
 import DocCardList from '@theme/DocCardList';
 
