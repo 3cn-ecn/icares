@@ -6,6 +6,7 @@ last_update:
   date: 2022-10-20
 ---
 
+import useIsBrowser from '@docusaurus/useIsBrowser';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
@@ -15,8 +16,9 @@ import TabItem from '@theme/TabItem';
 
 *Comment participer aux ICAres ? On vous explique tout !*
 
-<Tabs defaultValue={window.location.hash}>
-<TabItem value="" label="Pour tous" default>
+<BrowserOnly>
+<Tabs defaultValue={useIsBrowser() ? (new URL(document.location)).searchParams.get('centrale') ?? 'tous' : 'tous'}>
+<TabItem value="tous" label="Pour tous" default>
 
 1. Organisez-vous au sein de votre école pour savoir qui représentera l'école pour
   chaque épreuve. Attention, le nombre de places est limité donc organisez-vous bien
@@ -29,7 +31,7 @@ import TabItem from '@theme/TabItem';
   
 </TabItem>
 
-<TabItem value="#nantes" label="Centrale Nantes">
+<TabItem value="nantes" label="Centrale Nantes">
   
 
 1. Pour chaque épreuve à laquelle vous souhaitez participer, contactez le respo
@@ -72,7 +74,7 @@ import TabItem from '@theme/TabItem';
   
 </TabItem>
 
-<TabItem value="#lille" label="Centrale Lille">
+<TabItem value="lille" label="Centrale Lille">
 
 1. Organisez-vous avec le BDA pour savoir qui représentera l'école pour
   chaque épreuve. Attention, le nombre de places est limité donc organisez-vous bien
@@ -85,6 +87,7 @@ import TabItem from '@theme/TabItem';
   
 </TabItem>
 </Tabs>
+</BrowserOnly>
 
 
 :::info Tarifs 🤑
