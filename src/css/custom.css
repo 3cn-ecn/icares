@@ -45,3 +45,7 @@
 .hide-icons article h2 {
   margin-bottom: 0;
 }
+
+.inscription {
+  scroll-margin-top: 100vh;
+}
