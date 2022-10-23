@@ -1,12 +1,14 @@
 ---
 title: 🎅🦸‍♀️ Impro
 description: Présentation et règlement de l'épreuve d'impro
-
+image: /img/epreuves/impro.png
 last_update:
   date: 2022-10-17
 ---
 
 # Impro
+
+![](/img/epreuves/impro.png)
 
 ## L'Épreuve
 
