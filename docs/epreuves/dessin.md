@@ -1,12 +1,14 @@
 ---
 title: 🖍️ Dessin
 description: Présentation et règlement de l'épreuve de dessin
+image: /img/epreuves/dessin.png
 last_update:
   date: 2022-10-17
 ---
 
 # Dessin
 
+![](/img/epreuves/dessin.png)
 
 ## L'Épreuve
 
