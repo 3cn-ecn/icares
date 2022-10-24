@@ -1,11 +1,14 @@
 ---
 title: 🎙️ Rap
 description: Présentation et règlement de rap
+image: /img/epreuves/rap.png
 last_update:
   date: 2022-10-17
 ---
 
 # Rap
+
+![](/img/epreuves/rap.png)
 
 ## L'Épreuve
 

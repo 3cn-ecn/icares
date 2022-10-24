@@ -1,11 +1,14 @@
 ---
 title: 🤸‍♀️ Battle de Danse
 description: Présentation et règlement de l'épreuve de battle de danse
+image: /img/epreuves/battle.png
 last_update:
   date: 2022-10-17
 ---
 
 # Battle de danse
+
+![](/img/epreuves/battle.png)
 
 ## L'Épreuve
 
