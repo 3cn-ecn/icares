@@ -3,7 +3,7 @@ sidebar_position: 3
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2022-10-20
+  date: 2022-10-31
 ---
 
 import useIsBrowser from '@docusaurus/useIsBrowser';
@@ -109,11 +109,14 @@ import TabItem from '@theme/TabItem';
 
 ## Logement et nourriture
 
-Il sera possible de demander à être logé sur place chez les étudiants de Centrale Nantes lors de votre inscription sur la billetterie. Des repas seront aussi proposés.
+Il sera possible de demander à être logé sur place chez les étudiants de Centrale
+Nantes lors de votre inscription sur la billetterie. Des repas seront aussi proposés
+le samedi (matin, midi, et soir) et le dimanche (matin et midi).
 
-Pensez aussi à apporter :
-* Duvet et matelas/tapis de sol si vous êtes logés
-* Éco-cup, couverts et assiette pour les repas
+Pensez à apporter :
+* Duvet et matelas/tapis de sol si avez demandé à être logé
+* 2 ou 3 écocups (pour les petit-dej, si vous voulez boisson chaude + boisson froide + céréales)
+* Couverts et assiette pour les repas
 
 :::danger Attention
 Aucun repas ne sera servi le vendredi soir. Pensez à apporter votre pique-nique !

@@ -2,13 +2,15 @@
 sidebar_position: 1
 pagination_next: null
 pagination_prev: null
+last_update:
+  date: 2022-10-31
 ---
 
 # Épreuves
 
 Découvrez ici toutes les épreuves des ICAres ! 
-Pour savoir comment vous inscrire, rendez-vous dans
-l'onglet [*Infos Pratiques*](/infos-pratiques).
+* [Comment s'inscrire ?](/infos-pratiques)
+* [Voir le planning des épreuves](/planning)
 
 import DocCardList from '@theme/DocCardList';
 

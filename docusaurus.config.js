@@ -75,6 +75,11 @@ const config = {
             position: 'left',
             label: 'Infos pratiques',
           },
+          {
+            to: '/soiree',
+            position: 'left',
+            label: 'La Soirée'
+          },
           // {
           //   to: '/blog',
           //   label: 'Actualités',
