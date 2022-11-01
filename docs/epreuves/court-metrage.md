@@ -33,4 +33,11 @@ Le film doit être diffusable dans tout cadre : la violence, la nudité, les ima
 Chaque équipe peut prendre libre interprétation du thème (de façon humoristique, dramatique, ...).
 
 ## Barème de NoTation
-*En cours de montage...* 
+Les films seront notés sur :
+* La qualité de la prise de vue
+* La qualité du son et du montage
+* Le scénario
+* La qualité et la pertinence des dialogues
+* Le jeu d’acteur 
+* Le respect du thème
+L’originalité est valorisée

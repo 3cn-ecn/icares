@@ -40,4 +40,10 @@ Il est nécessaire d'être en lien avec le thème pour concourir mais il est à 
 
 
 ## Barème de NotatIon
-*La chorégraphie est en cours ...* 
+La performance sera notée sur : 
+* La difficulté
+* La technique
+* La synchronisation
+* L'originalité
+* La présence sur scène 
+* Le respect du thème
