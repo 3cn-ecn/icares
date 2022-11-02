@@ -26,7 +26,7 @@ Aucun téléphone ou livre de recette ne sera autorisé pendant l'épreuve. La p
 
 Le type de plat est libre, sucré ou salé mais unique à l'exception d'un format café gourmand autorisé.
 
-La liste des ustensiles et ingrédients sera publiée le ***1er novembre***. Il vous sera interdit d'apporter tout ustensile ou ingrédient supplémentaire. 
+La liste des ustensiles et ingrédients sera publiée le ***3 novembre***. Il vous sera interdit d'apporter tout ustensile ou ingrédient supplémentaire. 
 
 
 ## Thème
