@@ -26,7 +26,44 @@ Aucun téléphone ou livre de recette ne sera autorisé pendant l'épreuve. La p
 
 Le type de plat est libre, sucré ou salé mais unique à l'exception d'un format café gourmand autorisé.
 
-La liste des ustensiles et ingrédients sera publiée le ***3 novembre***. Il vous sera interdit d'apporter tout ustensile ou ingrédient supplémentaire. 
+***Liste des ingrédients:***
+- piments : piment d’espelette, piments en flocons, piments jalalpeños
+- riz 
+- pâtes
+- pomme de terre
+- sel / poivre
+- oeufs (6)
+- sucre
+- farine
+- beurre
+- huile
+- oignon / ail
+- légumes de saison
+- fruits de saison
+- lait
+- crème fraiche
+
+***Liste des ustensiles:***
+- poêles
+- casseroles
+- fours
+- couteaux/fourchettes/cuillères à soupe/cuillères à café
+- ecocups de 25cL 
+- bols
+- planches à découper
+- assiettes
+
+
+Il vous est interdit d'apporter tout ustensile supplémentaire. 
+
+Toutefois, vous pouvez ramener, à votre convenance, les ingrédients suivants :
+- vinaigre
+- autre type de piment
+- herbes aromatiques (coriandre, basilic, persil, aneth, menthe)
+- pain
+- chocolat
+- levure chimique
+
 
 
 ## Thème
