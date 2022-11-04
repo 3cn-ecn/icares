@@ -4,7 +4,6 @@ description: Présentation et règlement de l'épreuve de danse de couple
 image: /img/epreuves/danse-couple.png
 last_update:
   date: 2022-10-11
-draft : true
 ---
 
 # Danse de couple
