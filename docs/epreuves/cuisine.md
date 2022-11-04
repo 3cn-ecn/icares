@@ -26,7 +26,7 @@ Aucun téléphone ou livre de recette ne sera autorisé pendant l'épreuve. La p
 
 Le type de plat est libre, sucré ou salé mais unique à l'exception d'un format café gourmand autorisé.
 
-***Liste des ingrédients:***
+***Liste des ingrédients à disposition:***
 - piments : piment d’espelette, piments en flocons, piments jalalpeños
 - riz 
 - pâtes
@@ -43,7 +43,7 @@ Le type de plat est libre, sucré ou salé mais unique à l'exception d'un forma
 - lait
 - crème fraiche
 
-***Liste des ustensiles:***
+***Liste des ustensiles fournis:***
 - poêles
 - casseroles
 - fours
