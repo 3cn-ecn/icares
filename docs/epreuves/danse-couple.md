@@ -42,8 +42,8 @@ La musique devra être envoyée en format mp3 avant le **16 novembre** à l'adre
 Pour cette partie, la prestation sera en simultané, le choix aléatoire laissant place à l'improvisation.
 
 Plusieurs couples danseront en même temps sur une musique sélectionnée aléatoirement, par le jury, dans les playlists suivantes :
-* https://deezer.page.link/jcf6aeK9bcD1L3R77 pour les danses rock
-* https://deezer.page.link/ESw4z6EjaFeFC5ubA pour les danses salsa
+* [Playlist Deezer Rock](https://deezer.page.link/jcf6aeK9bcD1L3R77) pour les danses rock
+* [Playlist Deezer Salsa](https://deezer.page.link/ESw4z6EjaFeFC5ubA) pour les danses salsa
 
 La liste des musiques pour cette seconde épreuve sera composée de musiques de rock (4 et 6 temps) et de salsa. 
 
