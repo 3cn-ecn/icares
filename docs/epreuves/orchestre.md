@@ -14,7 +14,7 @@ last_update:
 
 Que vous soyez de bons musiciens ou que vous écouter soit un enfer, venez nous montrer votre talent !
 
-Deux orchestres composés de 2 à 10 musiciens pourront représenter chaque école.
+Deux orchestres composés de 2 à 11 musiciens pourront représenter chaque école.
 
 Les orchestres devront respecter les règles énoncées ci-dessous.
 
