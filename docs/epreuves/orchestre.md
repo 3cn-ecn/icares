@@ -29,7 +29,7 @@ Tous les instruments pourront être utilisés. Un piano sera à votre dispositio
 
 Le choix des morceaux est libre, sans contrainte de style ou de thème, dans la limite du temps imparti.
 
-Il peut y avoir un étudiant, en plus des 10 musiciens jouant le rôle de chef d'orchestre.
+Il peut y avoir un étudiant, en plus des 11 musiciens, jouant le rôle de chef d'orchestre.
 
 Il n'y a pas de thème associé avec cette épreuve mais toute référence au thème général *"Enfer"* sera bienvenue.
 
