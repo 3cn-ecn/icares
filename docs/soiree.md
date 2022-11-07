@@ -19,7 +19,7 @@ La soirée aura lieu le samedi 19 novembre, à partir de 20h, au [Palace de Nant
 
 ## Billetterie et tarifs
 
-* Si vous avez déjà acheté une place participant aux ICAres (billet normal ou normal + logement): pas besoin de vous inscrire, la soirée est déjà incluse dans la place ! 🎉
+* Si vous êtes participant aux ICAres (billet normal ou normal + logement) : pas besoin de vous inscrire, la soirée est déjà incluse dans la place ! 🎉
 * Si vous n'êtes pas participant aux ICAres : [prenez votre place sur la billetterie en ligne !](https://www.helloasso.com/associations/association-culturelle-de-l-ecole-centrale-de-nantes/evenements/soiree-infernale-icares)
 
 ## Programme
