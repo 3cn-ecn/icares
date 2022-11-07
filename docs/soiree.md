@@ -17,6 +17,11 @@ last_update:
 La soirée aura lieu le samedi 19 novembre, à partir de 20h, au [Palace de Nantes](https://goo.gl/maps/PKjtoVaEG5AGyMXT8)
 (anciennement Le Mirza). Des navettes seront prévues pour le retour.
 
+## Billetterie
+
+* Si vous avez déjà acheté une place participant aux ICAres : pas besoin de vous inscrire, la soirée est incluse dans la place.
+* Si vous n'êtes pas participant aux ICAres : [prenez votre place sur la billetterie en ligne !](https://www.helloasso.com/associations/association-culturelle-de-l-ecole-centrale-de-nantes/evenements/soiree-infernale-icares)
+
 ## Programme
 
 * Epreuve *Fanfare* des 6 écoles Centrale
