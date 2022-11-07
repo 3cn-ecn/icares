@@ -68,6 +68,8 @@ Liste des ustensiles fournis pendant l'épreuve :
 - bols
 - planches à découper
 - assiettes
+- moules à gateaux
+- fouets
 
 :::warning Attention
 Il vous est interdit d'apporter tout ustensile supplémentaire.
