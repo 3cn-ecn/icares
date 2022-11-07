@@ -3,7 +3,7 @@ title: 🌶️ Cuisine
 description: Présentation et règlement de l'épreuve de Cuisine
 image: /img/epreuves/cuisine.png
 last_update:
-  date: 2022-11-04
+  date: 2022-11-07
 ---
 
 # Cauchemar en cuisine
@@ -26,9 +26,10 @@ Aucun téléphone ou livre de recette ne sera autorisé pendant l'épreuve. La p
 
 Le type de plat est libre, sucré ou salé mais unique à l'exception d'un format café gourmand autorisé.
 
-### Ingrédients
+<details>
+<summary>Liste des Ingrédients</summary>
 
-Liste des ingrédients à disposition le jour de l'épreuve :
+Liste des ingrédients mis à votre disposition le jour de l'épreuve :
 
 - piments : piment d’espelette, piments en flocons, piments jalalpeños
 - riz 
@@ -46,17 +47,18 @@ Liste des ingrédients à disposition le jour de l'épreuve :
 - lait
 - crème fraiche
 
-:::success En plus
-Vous pouvez ramener en plus, à votre convenance, les ingrédients suivants :
+Vous pourrez ramener en plus, à votre convenance, les ingrédients suivants :
 - vinaigre
 - autre type de piment
 - herbes aromatiques (coriandre, basilic, persil, aneth, menthe)
 - pain
 - chocolat
 - levure chimique
-:::
 
-### Ustensiles
+</details>
+
+<details>
+<summary>Liste des Ustensiles</summary>
 
 Liste des ustensiles fournis pendant l'épreuve :
 
@@ -75,6 +77,7 @@ Liste des ustensiles fournis pendant l'épreuve :
 Il vous est interdit d'apporter tout ustensile supplémentaire.
 :::
 
+</details>
 
 ## Thème
 
@@ -92,4 +95,4 @@ Les prestations seront notées sur :
 * La place du piment dans le plat
 * Le rendu visuel
 
-L'originalité sera valorisée
+L'originalité sera valorisée.
