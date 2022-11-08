@@ -13,9 +13,10 @@ last_update:
 ## L'Épreuve
 Cette épreuve appelle à la réalisation d'un court-métrage, respectant les règles énoncées ci-dessous.
 
-La taille de l'équipe est libre. Chaque école peut réaliser un ou plusieurs court-métrages. 
+La taille de l'équipe est d'au moins 4 personnes. Chaque école peut réaliser un ou plusieurs court-métrages. 
 
 La présence des candidats aux Icares n'est pas indispensable pour concourir. 
+Chaque membre de l'équipe paiera sa participation à l'épreuve en fonction de sa présence ou non à Nantes (5€ ou 23/28€). 
 
 ## Les Modalités
 La vidéo devra durer entre 5 min et 10 min, intro et générique compris.
