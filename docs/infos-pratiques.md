@@ -96,10 +96,10 @@ import TabItem from '@theme/TabItem';
 
 
 :::info Tarifs 🤑
-**Tarif normal** (repas et soirée inclus) : 23 €<br/>
-**Tarif normal + logement** : 28 €<br/>
-**Participation aux épreuves sans venue à Nantes** : 5 €<br/>
-**Tarif soirée seule** : *disponible plus tard*
+**Tarif participant** (repas et soirée inclus) : 23 €<br/>
+**Tarif participant + logement** : 28 €<br/>
+**Tarif participant réduit** (si vous ne venez ni sur le campus ni à la soirée) : 5 €<br/>
+**Tarif soirée (sans participation)** : 9 € (voir la page [Soirée](/soiree))
 :::
 
 ## Dates et lieu
