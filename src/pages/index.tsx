@@ -4,6 +4,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import SubPages from '@site/src/components/SubPages';
 
 import styles from './index.module.css';
 
@@ -16,7 +17,7 @@ function HomepageHeader() {
           <img src='img/banner.png' alt='Les ICAres'></img>
         </div>
       </header>
-      <div className={clsx('container', styles.heroBanner)}>
+      {/* <div className={clsx('container', styles.heroBanner)}>
         <h1 className="hero__title">Les inscriptions sont ouvertes !</h1>
         <div className={styles.buttons}>
           <Link
@@ -26,7 +27,7 @@ function HomepageHeader() {
           </Link>
         </div>
         <hr style={{marginTop: '3em'}}/>
-      </div>
+      </div> */}
     </>
     // <header className={clsx('hero hero--primary', styles.heroBanner)}>
     //   <div className="container">
@@ -52,6 +53,8 @@ export default function Home(): JSX.Element {
       description="Les ICAres est une compétition artistique faisant concourir toutes les Écoles Centrale.">
       <HomepageHeader />
       <main>
+        <SubPages />
+        {/* <div className='container'><hr/></div> */}
         <HomepageFeatures />
       </main>
     </Layout>

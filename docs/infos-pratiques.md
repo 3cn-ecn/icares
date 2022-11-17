@@ -3,7 +3,7 @@ sidebar_position: 3
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2022-10-31
+  date: 2022-11-17
 ---
 
 import useIsBrowser from '@docusaurus/useIsBrowser';
@@ -11,111 +11,6 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # Infos Pratiques
-
-## Inscription et Billetterie
-
-:::tip Fin des Inscriptions
-Les Inscriptions sont closes ! Vous êtes plus de 250 à vous être inscrit, merci 
-d'avoir été si nombreux !
-:::
-
-* Vous vous êtes inscrits sans payer ? [Aller sur la billetterie](https://www.helloasso.com/associations/association-culturelle-de-l-ecole-centrale-de-nantes/evenements/icares-5eme-edition-nantes-participation-et-logement)
-* Vous souhaitez modifier votre réponse sur le formulaire ?
-  Contactez-nous d'abord par [messenger](https://m.me/InterCentralesdesArts) ou
-  par [mail](mailto:icares.centrale@gmail.com), puis modifiez votre réponse depuis
-  le mail automatique reçu sur l'adresse renseignée à l'inscription.
-
-<!-- 
-
-*Comment participer aux ICAres ? On vous explique tout !*
-
-<BrowserOnly>
-<Tabs 
-  groupId="ecoles"
-  defaultValue={useIsBrowser()
-    ? (new URL(document.location)).searchParams.get('centrale') ?? 'tous'
-    : 'tous'}
->
-<TabItem value="tous" label="Pour tous" default>
-
-1. Organisez-vous au sein de votre école pour savoir qui représentera l'école pour
-  chaque épreuve. Attention, le nombre de places est limité donc organisez-vous bien
-  avant !
-2. Remplissez le **[Formulaire d'Inscription](https://forms.gle/v7xsksGSuGZYG26Q9)**
-  pour enregistrer votre participation. Vous pourrez modifier plus tard les
-  épreuves choisies, mais pas la formule de prix !
-3. Payez la formule choisie dans le formulaire sur la
-  [**Billetterie en Ligne**](https://www.helloasso.com/associations/association-culturelle-de-l-ecole-centrale-de-nantes/evenements/icares-5eme-edition-nantes-participation-et-logement).
-  
-</TabItem>
-
-<TabItem value="nantes" label="Centrale Nantes">
-  
-
-1. Pour chaque épreuve à laquelle vous souhaitez participer, contactez le respo
-  épreuve correspondant pour vous pré-inscrire : c'est lui qui décidera
-  qui représentera Centrale Nantes pour cette épreuve !
-
-  <details>
-  <summary>Liste des respos d'épreuves</summary>
-
-  | Épreuve | Respo |
-  | -- | -- |
-  | Battle de danse | [Éléonore M'Weitte Lucas](https://m.me/100019288382643) |
-  | BD | [Maël Cauchem'Art Chakma](https://m.me/maelchakma) |
-  | Chant solo | [Gladys Cauchem'Art Ringenbach](https://m.me/gladys.ringenbach) |
-  | Cheer | [Émeline Olivier](https://m.me/emeline.olivier.311) |
-  | Chorale | [Chiara Cauchem'Art St Giniez](https://m.me/100071935519339) |
-  | Court Métrage | [Loïc Cauchem'Art Buatois](https://m.me/loic.buatois.54) |
-  | Cuisine | [Tess Cauchem'Art Chemouny](https://m.me/100070789186976) |
-  | Danse de couple | [Estelle Phantôme Massi](https://m.me/stella.massi.54) |
-  | Danse de groupe | [Éléonore M'Weitte Lucas](https://m.me/100019288382643) |
-  | Dessin | [Romain Artscène Dassonneville](https://m.me/100071729173091) |
-  | Fanfare | [Léonie Cauchem'Art Duran](https://m.me/100005913557059) |
-  | Impro | [Guilwen Cauchem'Art Meunier](https://m.me/guilwen.meunier) |
-  | Musique de groupe | [Maxime Phantôme Buquet](https://m.me/maxime.buquet.79) |
-  | Nouvelle | [Jo Cauchem'Art Mars](https://m.me/100072127944738) |
-  | Orchestre | [Benoît Cata Huet](https://m.me/benoit.huet.984) |
-  | Peinture | [Romain Artscène Dassonneville](https://m.me/100071729173091) |
-  | Photo | [Matéo Cauchem'Art Gobinaud](https://m.me/100010211373269) |
-  | Poésie | [Jo Cauchem'Art Mars](https://m.me/100072127944738) |
-  | Rap | [Arthur Astier](https://m.me/100017809395582) |
-  | Théâtre | [Léo Clerc](https://m.me/100066972776026) |
-
-  </details>
-
-2. Une fois la pré-inscription validée, remplissez le **[Formulaire d'Inscription](https://forms.gle/v7xsksGSuGZYG26Q9)**
-  pour enregistrer votre participation. Vous pourrez modifier plus tard les
-  épreuves choisies, mais pas la formule de prix !
-3. Payez la formule choisie dans le formulaire sur la
-  [**Billetterie en Ligne**](https://www.helloasso.com/associations/association-culturelle-de-l-ecole-centrale-de-nantes/evenements/icares-5eme-edition-nantes-participation-et-logement).
-  
-</TabItem>
-
-<TabItem value="lille" label="Centrale Lille">
-
-1. Organisez-vous avec le BDA pour savoir qui représentera l'école pour
-  chaque épreuve. Attention, le nombre de places est limité donc organisez-vous bien
-  avant !
-2. Remplissez le **[Formulaire d'Inscription](https://forms.gle/v7xsksGSuGZYG26Q9)**
-  pour enregistrer votre participation. Vous pourrez modifier plus tard les
-  épreuves choisies, mais pas la formule de prix !
-3. Ne payez pas sur la billetterie commune : votre BDA vous communiquera plus tard
-  la billetterie sur laquelle vous payerez. 
-  
-</TabItem>
-</Tabs>
-</BrowserOnly>
-
-
-:::info Tarifs 🤑
-**Tarif participant** (repas et soirée inclus) : 23 €<br/>
-**Tarif participant + logement** : 28 €<br/>
-**Tarif participant réduit** (si vous ne venez ni sur le campus ni à la soirée) : 5 €<br/>
-**Tarif soirée (sans participation)** : 9 € (voir la page [Soirée](/soiree))
-:::
-
--->
 
 ## Dates et lieu
 
@@ -137,9 +32,30 @@ Pensez à apporter :
 Aucun repas ne sera servi le vendredi soir. Pensez à apporter votre pique-nique !
 :::
 
+## Plan du campus de Centrale Nantes
+
+* [Téléchargez le plan au format PDF](pathname:///downloads/plan-icares.pdf)
+
+![](/img/plan.png)
+
+
 ## Transports sur Nantes
 
 Les transports en commun à Nantes sont **gratuits** le week-end, à partir du vendredi soir minuit. Pensez à prévoir un peu de monnaie au cas où vous avez besoin de vous déplacer le vendredi soir.
 
 * Plus d'infos sur les transports en commun à Nantes : [tan.fr](https://www.tan.fr/)
 * Plan touristique PDF : [tan.fr/fr/plans/plan-decouverte](https://www.tan.fr/fr/plans/plan-decouverte)
+
+
+## Inscription et Billetterie
+
+:::tip Fin des Inscriptions
+Les inscriptions sont closes ! Vous êtes plus de 250 à vous être inscrit, merci 
+d'avoir été si nombreux !
+:::
+
+* Vous vous êtes inscrits sans payer ? [Aller sur la billetterie](https://www.helloasso.com/associations/association-culturelle-de-l-ecole-centrale-de-nantes/evenements/icares-5eme-edition-nantes-participation-et-logement)
+* Vous souhaitez modifier votre réponse sur le formulaire ?
+  Contactez-nous d'abord par [messenger](https://m.me/InterCentralesdesArts) ou
+  par [mail](mailto:icares.centrale@gmail.com), puis modifiez votre réponse depuis
+  le mail automatique reçu sur l'adresse renseignée à l'inscription.

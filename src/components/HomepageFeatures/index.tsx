@@ -60,11 +60,11 @@ function Feature({title, Svg, description, link, textLink}: FeatureItem) {
         <h3>{title}</h3>
         <p>{description}</p>
       </div>
-      <div className="text--center">
+      {/* <div className="text--center">
         <Link className="button button--secondary" to={link}>
           {textLink}
         </Link>
-      </div>
+      </div> */}
     </div>
   );
 }
