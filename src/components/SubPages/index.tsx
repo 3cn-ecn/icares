@@ -31,11 +31,11 @@ function Feature({ title, link }: FeatureItem) {
   return (
     <article className="col col--3 margin-bottom--lg">
       <a
-        className="card text-center padding--lg cardContainer_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module"
+        className={clsx("card text-center padding--lg", styles.cardContainer)}
         href={link}
       >
         <h2
-          className="text--truncate cardTitle_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module"
+          className={clsx("text--truncate ", styles.cardTitle)}
           title="💭 Bande Dessinée"
         >
           {title}
