@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 title: La Soirée
 image: /img/soiree_16-9.png
 pagination_next: null
