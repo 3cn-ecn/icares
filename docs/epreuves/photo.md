@@ -20,7 +20,7 @@ La présence des participants aux Icares est obligatoire.
 
 ## Les Modalités
 
-Les photos devront être prise à Nantes en suivant le thème puis traitées par les photographes et envoyées à l'adresse ... entre 8h et 16 h le *Samedi 19 novembre*.
+Les photos devront être prise à Nantes en suivant le thème puis traitées par les photographes et envoyées à l'adresse [icares.centrale@gmail.com](mailto:icares.centrale@gmail.com) entre **avant 16h le samedi 19 novembre**.
 
 Tout les types de photos sont libres. 
 
