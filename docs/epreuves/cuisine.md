@@ -58,20 +58,29 @@ Vous pourrez ramener en plus, à votre convenance, les ingrédients suivants :
 </details>
 
 <details>
-<summary>Liste des Ustensiles</summary>
+<summary>Liste des Ustensiles (Attention, liste étoffée !)</summary>
 
-Liste des ustensiles fournis pendant l'épreuve :
+Liste des ustensiles fournis pendant l'épreuve : 
 
 - poêles
 - casseroles
-- fours
+- couvercles casseroles
+- plaques de cuisson électriques
+- fours, plaques et plats, maniques
+- micro-onde
+- dessous de plats
 - couteaux/fourchettes/cuillères à soupe/cuillères à café
 - ecocups de 25cL 
-- bols
-- planches à découper
+- bols mélangeaurs et bols micro-ondes
+- planches à découper, économe, couteau de cuisine
 - assiettes
 - moules à gateaux
 - fouets
+- torchons, produit vaisselle, éponge
+- spatule en bois
+- spatule plate
+- passoire
+- assiettes et couverts de service
 
 :::warning Attention
 Il vous est interdit d'apporter tout ustensile supplémentaire.
