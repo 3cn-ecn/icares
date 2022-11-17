@@ -71,7 +71,7 @@ Liste des ustensiles fournis pendant l'épreuve :
 - dessous de plats
 - couteaux/fourchettes/cuillères à soupe/cuillères à café
 - ecocups de 25cL 
-- bols mélangeaurs et bols micro-ondes
+- bols mélangeurs et bols micro-ondes
 - planches à découper, économe, couteau de cuisine
 - assiettes
 - moules à gateaux
