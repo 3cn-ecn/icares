@@ -3,14 +3,16 @@ sidebar_position: 4
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2022-11-07
+  date: 2022-11-18
 ---
 
 # Épreuves
 
+
 Découvrez ici toutes les épreuves des ICAres ! 
 * [Comment s'inscrire ?](/infos-pratiques)
 * [Voir le planning des épreuves](/planning)
+* [Voir les œuvres envoyées (BDs, Nouvelles, Poèmes)](https://drive.google.com/drive/folders/19TKnwWFqmLf3s9V0aDmTF8rg1IOkYzqA?usp=share_link)
 
 <details>
 <summary>Liste des respos d'épreuves</summary>

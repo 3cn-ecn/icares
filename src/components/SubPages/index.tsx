@@ -36,7 +36,6 @@ function Feature({ title, link }: FeatureItem) {
       >
         <h2
           className={clsx("text--truncate ", styles.cardTitle)}
-          title="💭 Bande Dessinée"
         >
           {title}
         </h2>
@@ -53,6 +52,20 @@ export default function SubPages(): JSX.Element {
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
+        </div>
+        <div className="row">
+          <article className="col col--12 margin-bottom--lg">
+            <a
+              className={clsx("text-center")}
+              href="https://drive.google.com/drive/folders/19TKnwWFqmLf3s9V0aDmTF8rg1IOkYzqA?usp=share_link"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <h2>
+                {">> Lire les œuvres envoyées (BDs, Nouvelles, Poèmes) <<"}
+              </h2>
+            </a>
+          </article>
         </div>
       </div>
     </section>
