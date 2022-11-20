@@ -1,7 +1,7 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 title: Résultats
-# image: /img/soiree/affiche.png
+image: /img/resultats/graphisme_Page28.png
 pagination_next: null
 pagination_prev: null
 last_update:
@@ -10,7 +10,15 @@ last_update:
 
 # Résultats
 
-## Classement des écoles 
+## Classement des écoles
+
+<span>
+  <img src="/img/resultats/graphismes_Page33.png" style={{width:'20%', minWidth: '150px'}} />
+  <img src="/img/resultats/graphismes_Page34.png" style={{width:'20%', minWidth: '150px'}} />
+  <img src="/img/resultats/graphismes_Page35.png" style={{width:'20%', minWidth: '150px'}} />
+  <img src="/img/resultats/graphismes_Page36.png" style={{width:'20%', minWidth: '150px'}} />
+  <img src="/img/resultats/graphismes_Page37.png" style={{width:'20%', minWidth: '150px'}} />
+</span>
 
 * 1er : Centrale Nantes
 * 2e : Centrale Lille

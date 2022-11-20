@@ -61,24 +61,19 @@ const config = {
         },
         items: [
           {
-            to: '/epreuves',
+            to: '/resultats',
             position: 'left',
-            label: 'Épreuves',
+            label: 'Résultats',
           },
           {
-            to: '/planning',
+            to: '/oeuvres',
             position: 'left',
-            label: 'Planning',
+            label: 'Œuvres',
           },
           {
-            to: '/infos-pratiques',
+            to: '/souvenirs',
             position: 'left',
-            label: 'Infos pratiques',
-          },
-          {
-            to: '/soiree',
-            position: 'left',
-            label: 'La Soirée'
+            label: 'Souvenirs',
           },
           // {
           //   to: '/blog',

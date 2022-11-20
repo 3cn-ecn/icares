@@ -10,29 +10,33 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "Les Résultats 🏆",
+    title: "Résultats 🏆",
     link: "/resultats"
   },
   {
-    title: "Gallerie des œuvres 🖼",
+    title: "Les Œuvres 🖼",
     link: "/oeuvres"
   },
   {
-    title: "Les Épreuves 🎨",
-    link: "/epreuves",
+    title: "Souvenirs ❤️",
+    link: "/souvenirs"
   },
-  {
-    title: "Le Planning 📅",
-    link: "/planning",
-  },
-  {
-    title: "Infos Pratiques 🥙",
-    link: "/infos-pratiques",
-  },
-  {
-    title: "La Soirée Infernale 😈",
-    link: "/soiree",
-  }
+  // {
+  //   title: "Les Épreuves 🎨",
+  //   link: "/epreuves",
+  // },
+  // {
+  //   title: "Planning 📅",
+  //   link: "/planning",
+  // },
+  // {
+  //   title: "Infos Pratiques 🥙",
+  //   link: "/infos-pratiques",
+  // },
+  // {
+  //   title: "La Soirée Infernale 😈",
+  //   link: "/soiree",
+  // }
 ];
 
 function Feature({ title, link }: FeatureItem) {
