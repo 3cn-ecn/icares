@@ -38,7 +38,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           showLastUpdateTime: true,
-          sidebarCollapsed: false,
+          sidebarCollapsed: true,
         },
         blog: {
           showReadingTime: true,

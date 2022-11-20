@@ -10,7 +10,15 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "Les Épreuves 🏆",
+    title: "Les Résultats 🏆",
+    link: "/resultats"
+  },
+  {
+    title: "Gallerie des œuvres 🖼",
+    link: "/oeuvres"
+  },
+  {
+    title: "Les Épreuves 🎨",
     link: "/epreuves",
   },
   {
@@ -24,12 +32,12 @@ const FeatureList: FeatureItem[] = [
   {
     title: "La Soirée Infernale 😈",
     link: "/soiree",
-  },
+  }
 ];
 
 function Feature({ title, link }: FeatureItem) {
   return (
-    <article className="col col--3 margin-bottom--lg">
+    <article className="col col--4 margin-bottom--lg">
       <a
         className={clsx("card text-center padding--lg", styles.cardContainer)}
         href={link}
@@ -53,7 +61,7 @@ export default function SubPages(): JSX.Element {
             <Feature key={idx} {...props} />
           ))}
         </div>
-        <div className="row">
+        {/* <div className="row">
           <article className="col col--12 margin-bottom--lg">
             <a
               className={clsx("text-center")}
@@ -66,7 +74,7 @@ export default function SubPages(): JSX.Element {
               </h2>
             </a>
           </article>
-        </div>
+        </div> */}
       </div>
     </section>
   );
