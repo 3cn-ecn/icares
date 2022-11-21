@@ -4,6 +4,10 @@ title: ✒️ Nouvelle
 
 # Nouvelles
 
+<head>
+    <meta name="robots" content="noindex" />
+</head>
+
 Toutes les nouvelles sont soumises au droit d'auteur : toute publication ou
 réutilisation doit se faire avec le consentement explicite de l'auteur‧e ou
 des auteur‧es cités ci-dessous.

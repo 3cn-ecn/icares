@@ -4,6 +4,10 @@ title: 📸 Photo
 
 # Photo
 
+<head>
+    <meta name="robots" content="noindex" />
+</head>
+
 Toutes les photos sont soumises au droit d'auteur : elles ne peuvent être ni
 publiées, ni réutilisées, ni modifiées, sans l'autorisation explicite de
 l'auteur‧e.

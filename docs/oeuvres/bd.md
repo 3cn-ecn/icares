@@ -4,6 +4,10 @@ title: 💭 Bande Dessinée
 
 # Bande-Dessinée
 
+<head>
+    <meta name="robots" content="noindex" />
+</head>
+
 Toutes les bandes-dessinées sont soumises au droit d'auteur : elles ne peuvent
 être ni publiées, ni réutilisées, ni modifiées, sans l'autorisation explicite de
 l'auteur‧e.
