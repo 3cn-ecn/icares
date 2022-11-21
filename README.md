@@ -21,9 +21,17 @@ This command starts a local development server and opens up a browser window. Mo
 
 ### Deployment
 
-Deploy the website on the server. You must be connected to your Github account
-first through SSH.
+The website is automatically deployed on Github Pages when you push new commits
+on the `main` branch.
 
+### Update dependencies
+
+To update lock dependencies:
 ```
-npm run deploy
+npm update
+```
+
+To show security issues:
+```
+npm audit
 ```
