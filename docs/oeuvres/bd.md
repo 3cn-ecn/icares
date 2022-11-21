@@ -1,5 +1,6 @@
 ---
 title: 💭 Bande Dessinée
+pagination_prev: null
 ---
 
 # Bande-Dessinée
