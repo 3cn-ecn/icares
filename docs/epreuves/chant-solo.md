@@ -12,13 +12,13 @@ last_update:
 
 ## L'Épreuve
 
-Autrefois nommée *The Voice* puis *Centravision*, cette épreuve met à l'honneur un⋅e chanteur⋅euse de chaque école. 
+Autrefois nommée *The Voice* puis *Centravision*, cette épreuve met à l'honneur un‧e chanteur‧euse de chaque école. 
 
 Quel talent sera sélectionné par les jurys ? Il nous tarde de le découvrir !
 
 **
 
-Comme vous vous doutez, dans cette épreuve le⋅a chanteur⋅euse devra effectuer une prestation de chant en solo, en respectant les règles ci-dessous. 
+Comme vous vous doutez, dans cette épreuve le‧a chanteur‧euse devra effectuer une prestation de chant en solo, en respectant les règles ci-dessous. 
 
 Chaque école ne pourra proposer que 2 candidats pour cette épreuve.
 

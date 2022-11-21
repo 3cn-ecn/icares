@@ -12,9 +12,9 @@ last_update:
 
 ## L'Épreuve
 
-Que vous soyez danseur⋅euse étoile ou star du hip-hop, cette épreuve ne vous demande pas plus que de danser !
+Que vous soyez danseur‧euse étoile ou star du hip-hop, cette épreuve ne vous demande pas plus que de danser !
 
-Sur scène, 2 à 15 danseurs⋅euses devront effectuer une chorégraphie préalablement préparée.
+Sur scène, 2 à 15 danseurs‧euses devront effectuer une chorégraphie préalablement préparée.
 
 Chaque école ne peut être représentée que par une unique troupe de danseurs. 
 
