@@ -12,6 +12,9 @@ Toutes les photos sont soumises au droit d'auteur : elles ne peuvent être ni
 publiées, ni réutilisées, ni modifiées, sans l'autorisation explicite de
 l'auteur‧e.
 
+Le thème de l'épreuve était : **« Hel - La dame de l'ombre »**.
+
+
 ## Axelle Raffin (1ère place)
 
 <div class="text-center">

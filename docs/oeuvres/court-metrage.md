@@ -2,11 +2,13 @@
 title: 🎬 Court Métrage
 ---
 
-# Court-Métrages
+# Court Métrages
 
 <head>
     <meta name="robots" content="noindex" />
 </head>
+
+Le thème de l'épreuve était : **« Que le diable m'emporte »**.
 
 ## Satan (Centrale Nantes) - 1ère place
 

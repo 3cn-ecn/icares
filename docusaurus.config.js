@@ -61,9 +61,9 @@ const config = {
         },
         items: [
           {
-            to: '/resultats',
+            to: '/epreuves',
             position: 'left',
-            label: 'Résultats',
+            label: 'Épreuves',
           },
           {
             to: '/oeuvres',
@@ -71,9 +71,32 @@ const config = {
             label: 'Œuvres',
           },
           {
+            to: '/resultats',
+            position: 'left',
+            label: 'Résultats',
+          },
+          {
             to: '/souvenirs',
             position: 'left',
             label: 'Souvenirs',
+          },
+          {
+            type: 'dropdown',
+            label: 'Plus',
+            items: [
+              {
+                to: '/planning',
+                label: 'Planning',
+              },
+              {
+                to: '/infos-pratiques',
+                label: 'Infos Pratiques',
+              },
+              {
+                to: '/soiree',
+                label: 'Soirée',
+              }
+            ]
           },
           {
             href: 'https://www.flickr.com/photos/icares_centrale/',

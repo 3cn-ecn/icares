@@ -13,6 +13,8 @@ Tous les poèmes sont soumis au droit d'auteur : toute publication ou
 réutilisation doit se faire avec le consentement explicite de l'auteur‧e ou
 des auteur‧es cités ci-dessous.
 
+Le thème de l'épreuve était : **« Chant d'Asphodèle »**.
+
 | Poème | Auteur(s) | École |
 | -- | -- | -- |
 | [Chancelant](https://drive.google.com/file/d/1Z7KY3JKsQe45U3EEC8k3j9iZQkyRJLV-/view?usp=share_link)  | Alexandre Thierry | Centrale Lille |

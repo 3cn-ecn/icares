@@ -13,6 +13,8 @@ Toutes les bandes-dessinées sont soumises au droit d'auteur : elles ne peuvent
 être ni publiées, ni réutilisées, ni modifiées, sans l'autorisation explicite de
 l'auteur‧e.
 
+Le thème de l'épreuve était : **« Le passeur »**.
+
 Cliquez sur le lien de chaque BD pour lire la version PDF !
 
 | Classement | Auteurs | École | Fichier |

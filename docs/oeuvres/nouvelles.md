@@ -12,6 +12,8 @@ Toutes les nouvelles sont soumises au droit d'auteur : toute publication ou
 réutilisation doit se faire avec le consentement explicite de l'auteur‧e ou
 des auteur‧es cités ci-dessous.
 
+Le thème de l'épreuve était : **« L'enfer c'est les autres »**.
+
 | Classement | Nouvelle |  Auteurs | École |
 | -- | -- | -- | -- |
 | 1 | [Marybola](https://drive.google.com/file/d/1cG1Pa1mrRNaRAKvXF1L3B1INqpodE83J/view?usp=share_link)  | Eloi Olivier | Centrale Nantes |
