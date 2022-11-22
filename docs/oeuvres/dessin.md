@@ -12,7 +12,7 @@ Tous les dessins sont soumis au droit d'auteur : ils ne peuvent
 être ni publiés, ni réutilisés, ni modifiés, sans l'autorisation explicite de
 l'auteur‧e.
 
-Le thème de l'épreuve était : **Un Ange en Enfer »**.
+Le thème de l'épreuve était : **« Un Ange en Enfer »**.
 
 ## Sarah Afrikou : 1re place ex-æquo
 
