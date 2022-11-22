@@ -12,7 +12,7 @@ title: 🎬 Court Métrage
 
 <iframe class="youtube" src="https://www.youtube-nocookie.com/embed/lZl6fveE_L8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Les Morts n'ont pas de Bagnole (Centrle Lille) - 2e place
+## Les Morts n'ont pas de Bagnole (Centrale Lille) - 2e place
 
 <iframe class="youtube" src="https://www.youtube-nocookie.com/embed/3ec_XPujVPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
