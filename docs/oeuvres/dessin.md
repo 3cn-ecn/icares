@@ -12,7 +12,9 @@ Tous les dessins sont soumis au droit d'auteur : ils ne peuvent
 être ni publiés, ni réutilisés, ni modifiés, sans l'autorisation explicite de
 l'auteur‧e.
 
-## Ange Enfer - Sarah Afrikou : 1re place ex-æquo
+Le thème de l'épreuve était : **Un Ange en Enfer »**.
+
+## Sarah Afrikou : 1re place ex-æquo
 
 ![](/img/oeuvres/dessin/Ange_Enfer_Sarah.jpg)
 
@@ -24,7 +26,7 @@ l'auteur‧e.
 
 ![](/img/oeuvres/dessin/Ange_tombant_du_ciel_Farah.jpg)
 
-## Ange - Julien Manson : 4e place
+## Julien Manson : 4e place
 
 ![](/img/oeuvres/dessin/Ange_Julien.jpg)
 
