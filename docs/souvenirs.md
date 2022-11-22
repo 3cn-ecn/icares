@@ -4,7 +4,7 @@ title: Souvenirs
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2022-11-20
+  date: 2022-11-22
 ---
 
 # Souvenirs
@@ -17,4 +17,4 @@ Découvrez le récap vidéo du week-end, filmé et monté par CNT-CNC :
 
 ## Galerie
 
-Les photos prises pendant l'évènement seront aussi ajoutées ici très bientôt.
+Parcourez toutes les photos prises pendant l'évènement sur notre page Flickr : [@icares.centrale](https://www.flickr.com/photos/icares_centrale/).
