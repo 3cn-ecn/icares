@@ -9,7 +9,7 @@ last_update:
 
 # Galerie des Œuvres
 
-Découvrez toutes les œuvres produites au cours des ICAres !
+Découvrez ou redécouvrez toutes les œuvres produites au cours des ICAres !
 
 import DocCardList from '@theme/DocCardList';
 
