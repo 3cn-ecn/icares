@@ -21,6 +21,10 @@ const FeatureList: FeatureItem[] = [
     title: "Souvenirs ❤️",
     link: "/souvenirs"
   },
+  {
+    title: "L'équipe d'orga 😎",
+    link: "/equipe"
+  },
   // {
   //   title: "Les Épreuves 🎨",
   //   link: "/epreuves",
@@ -41,7 +45,7 @@ const FeatureList: FeatureItem[] = [
 
 function Feature({ title, link }: FeatureItem) {
   return (
-    <article className="col col--4 margin-bottom--lg">
+    <article className="col col--3 margin-bottom--lg">
       <a
         className={clsx("card text-center padding--lg", styles.cardContainer)}
         href={link}

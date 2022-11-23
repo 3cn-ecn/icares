@@ -95,6 +95,10 @@ const config = {
               {
                 to: '/soiree',
                 label: 'Soirée',
+              },
+              {
+                to: '/equipe',
+                label: 'L\'Équipe',
               }
             ]
           },

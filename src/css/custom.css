@@ -59,3 +59,8 @@ main article img {
   max-height: calc(100vh - var(--ifm-navbar-height));
   width: auto;
 }
+
+.orga {
+  border-radius: 40%;
+  max-width: 300px;
+}
