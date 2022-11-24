@@ -22,7 +22,7 @@ Le thème de l'épreuve était : **« Un Ange en Enfer »**.
 
 ![](/img/oeuvres/dessin/Maël.png)
 
-## Ange tombant du ciel - Farah Amerri : 3e place
+## Ange tombant du ciel - Farah Amorri : 3e place
 
 ![](/img/oeuvres/dessin/Ange_tombant_du_ciel_Farah.jpg)
 
