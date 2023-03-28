@@ -121,7 +121,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: 'ICAres Nantes 2022 - Conception : <a href="https://github.com/3cn-ecn" target="_blank" rel="noopener noreferrer">3CN Centrale Nantes</a> - Hébergeur : Github Inc.',
+        copyright: 'ICAres Nantes 2022 - Conception : <a class="footer__link-item" href="https://github.com/3cn-ecn" target="_blank" rel="noopener noreferrer">3CN Centrale Nantes</a> - Hébergeur : Github Inc.',
       },
       prism: {
         theme: lightCodeTheme,
