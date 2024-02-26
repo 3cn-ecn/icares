@@ -9,7 +9,7 @@ const config = {
   title: 'Les ICAres',
   tagline: 'Compétition Inter-Centrale des Arts',
   url: 'https://www.icares-centrale.fr',
-  baseUrl: '/',
+  baseUrl: '/icares/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo-icares.png',
