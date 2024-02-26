@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Les ICAres',
   tagline: 'Compétition Inter-Centrale des Arts',
-  url: 'https://www.icares-centrale.fr',
+  url: 'https://3cn-ecn.github.io',
   baseUrl: '/icares/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
