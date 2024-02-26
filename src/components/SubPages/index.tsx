@@ -46,16 +46,16 @@ const FeatureList: FeatureItem[] = [
 function Feature({ title, link }: FeatureItem) {
   return (
     <article className="col col--3 margin-bottom--lg">
-      <a
+      <Link
         className={clsx("card text-center padding--lg", styles.cardContainer)}
-        href={link}
+        to={link}
       >
         <h2
           className={clsx("text--truncate ", styles.cardTitle)}
         >
           {title}
         </h2>
-      </a>
+      </Link>
     </article>
   );
 }
