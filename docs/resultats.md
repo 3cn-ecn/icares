@@ -13,11 +13,11 @@ last_update:
 ## Classement des écoles
 
 <span>
-  <img src="/img/resultats/graphismes_Page33.png" style={{width:'20%', minWidth: '150px'}} />
-  <img src="/img/resultats/graphismes_Page34.png" style={{width:'20%', minWidth: '150px'}} />
-  <img src="/img/resultats/graphismes_Page35.png" style={{width:'20%', minWidth: '150px'}} />
-  <img src="/img/resultats/graphismes_Page36.png" style={{width:'20%', minWidth: '150px'}} />
-  <img src="/img/resultats/graphismes_Page37.png" style={{width:'20%', minWidth: '150px'}} />
+  <img src="/icares/img/resultats/graphismes_Page33.png" style={{width:'20%', minWidth: '150px'}} />
+  <img src="/icares/img/resultats/graphismes_Page34.png" style={{width:'20%', minWidth: '150px'}} />
+  <img src="/icares/img/resultats/graphismes_Page35.png" style={{width:'20%', minWidth: '150px'}} />
+  <img src="/icares/img/resultats/graphismes_Page36.png" style={{width:'20%', minWidth: '150px'}} />
+  <img src="/icares/img/resultats/graphismes_Page37.png" style={{width:'20%', minWidth: '150px'}} />
 </span>
 
 * 1er : Centrale Nantes
